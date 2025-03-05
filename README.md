@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @julienokumu, a Full Stack Developer
-- 👀 I’m interested in Web Development, AI and Machine Learning.
+- 👋 Hi, I’m @julienokumu, a AI/ML Engineer.
+- 👀 I’m interested in AI and Machine Learning, I occasionally build websites as well.
 - 🌱 I’m currently studying Computer Science.
-- 💞️ I’m looking to collaborate on building websites and machine learning models.
+- 💞️ I’m looking to collaborate on building  state-of-the-art machine learning models, artificial intelligence and websites.
 - 📫 How to reach me:
              Email: codewithjulien@gmail.com
              Phone Number: 0792137092
