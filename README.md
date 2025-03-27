@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on building  state-of-the-art machine learning models, artificial intelligence and websites.
 - 📫 How to reach me:
              Email: codewithjulien@gmail.com
-             Phone Number: 0792137092
 - ⚡ “Computers are incredibly fast, accurate, and stupid. Human beings are incredibly slow, inaccurate, and brilliant. Together they are powerful beyond imagination.”- Albert Einstein, physicist
 
 <!---
