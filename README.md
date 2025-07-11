@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying Computer Science.
 - 💞️ I’m looking to collaborate on building  state-of-the-art machine learning models and artificial intelligence.
 - 📫 How to reach me:
-             Email: codewithjulien@gmail.com
+             Email: jadenokumu@gmail.com
 - ⚡ “Computers are incredibly fast, accurate, and stupid. Human beings are incredibly slow, inaccurate, and brilliant. Together they are powerful beyond imagination.”- Albert Einstein, physicist
 
 <!---
